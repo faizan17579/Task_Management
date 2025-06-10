@@ -5,7 +5,10 @@ node_modules/
 backend/.env
 
 frontend1/.env
-frontend/dist/
-frontend/node_modules/
+frontend1/dist/
+
 backend/node_modules/
+
+frontend1/node_modules/
+
 *.log
